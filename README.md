@@ -12,15 +12,15 @@ Fansly Live Downloader is a browser extension built for users who want a cleaner
 
 ## Links
 
-- 🚀 Get it here: [Fansly Live Downloader](https://serp.ly/fansly-live-video-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/fansly-live-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/fansly-live-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/fansly-live-downloader/issues)
+- ðŸš€ Get it here: [Fansly Live Downloader](https://serp.ly/fansly-live-video-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/fansly-live-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/fansly-live-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/fansly-live-downloader/issues)
 
 ## Preview
 
-![Fansly Live Downloader workflow preview](assets/workflow-preview.svg)
+![Fansly Live Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 

@@ -141,22 +141,22 @@ Start here: [https://serp.ly/fansly-live-video-downloader](https://serp.ly/fansl
 
 ## FAQ
 
-**Can I record Fansly live streams?**  
+**Can I record Fansly live streams**  
 Yes. Active Fansly live streams can be recorded while they are broadcasting.
 
-**Can I download saved recordings too?**  
+**Can I download saved recordings too**  
 Yes. The extension supports saved video pages on supported Fansly pages.
 
-**Does it support VR streams?**  
+**Does it support VR streams**  
 Yes, when Fansly exposes compatible VR-capable media for that page.
 
-**What file format do downloads use?**  
+**What file format do downloads use**  
 Videos are saved as MP4 files.
 
-**Where are videos saved?**  
+**Where are videos saved**  
 They are saved to your default Downloads location, typically inside a FANSLYLIVE subfolder.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
 ## Notes

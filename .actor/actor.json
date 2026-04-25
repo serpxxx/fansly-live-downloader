@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Fansly Live Downloader listing and downloader workflow.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "fansly-live-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Fansly Live Downloader",
+  "version": "0.0"
+}

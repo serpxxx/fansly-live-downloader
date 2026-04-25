@@ -1,4 +1,4 @@
-# Fansly Live Downloader
+# Fansly Live Downloader Browser Extension
 
 > Record Fansly live streams and download saved recordings as MP4 files for offline viewing.
 

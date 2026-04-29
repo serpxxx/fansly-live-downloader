@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "fansly-live-downloader",
   "readme": "../ACTOR.md",
-  "title": "Fansly Live Downloader Browser Extension",
+  "title": "Fansly Live Downloader",
   "version": "0.0"
 }

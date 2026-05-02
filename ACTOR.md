@@ -9,6 +9,11 @@ Fansly Live Downloader is a browser extension built for users who want a cleaner
 - Keep supported VR captures with playback-friendly metadata when available
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier offline playback and archiving
+
+## Get it Here
+
+Get it here: https://serp.ly/fansly-live-video-downloader
+
 ## Table of Contents
 
 - [Why Fansly Live Downloader](#why-fansly-live-downloader)

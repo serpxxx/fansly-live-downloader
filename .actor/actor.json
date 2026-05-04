@@ -1,10 +1,10 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Fansly Live Downloader listing and downloader workflow.",
+  "description": "Fansly Live Downloader helps users save accessible videos for authorized offline viewing.",
   "input": "./INPUT_SCHEMA.json",
   "name": "fansly-live-downloader",
   "readme": "../ACTOR.md",
-  "title": "Fansly Live Downloader",
+  "title": "Fansly Live Video Downloader | Download Fansly Live Videos",
   "version": "0.0"
 }

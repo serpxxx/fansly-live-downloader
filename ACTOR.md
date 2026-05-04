@@ -1,6 +1,12 @@
-# Fansly Live Downloader
+# Fansly Live Video Downloader | How to Download Fansly Live Videos
 
 > Record Fansly live streams and download saved recordings as MP4 files for offline viewing.
+
+## Get it Here
+
+Get it here: https://serp.ly/fansly-live-video-downloader
+
+![Fansly Live Downloader](https://raw.githubusercontent.com/serpxxx/fansly-live-downloader/main/assets/workflow-preview.webp)
 
 Fansly Live Downloader is a browser extension built for users who want a cleaner way to keep Fansly live sessions and saved videos available outside the site. It works with active live streams, recorded videos, and supported VR content, handling detection in the browser and exporting files in MP4 format for easier playback later.
 
@@ -9,11 +15,6 @@ Fansly Live Downloader is a browser extension built for users who want a cleaner
 - Keep supported VR captures with playback-friendly metadata when available
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier offline playback and archiving
-
-## Get it Here
-
-Get it here: https://serp.ly/fansly-live-video-downloader
-
 ## Table of Contents
 
 - [Why Fansly Live Downloader](#why-fansly-live-downloader)
